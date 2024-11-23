@@ -1,1 +1,0 @@
-window.drupalTranslations = {"strings":{"":{"Home":"","Image":"\u091a\u093f\u0924\u094d\u0930"}}};
